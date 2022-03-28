@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vikankshgautam123@gmail.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VikankshGautam)
 
-⚡️ Favourite quote 
-***
-A BUG IS NEVER JUST A MISTAKE.   
-IT REPRESENTS SOMETHING BIGGER.  
-AN ERROR OF THINKING.  
-THAT MAKES YOU WHO YOU ARE. 
 
 
 ***
