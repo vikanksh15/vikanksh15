@@ -4,7 +4,7 @@
 ######
 🧑‍🎓I'm a 3rd-year Student pursing a Bachelor’s in Computer Science with a specialization in Artificial Inteligence and Machine Learning, from VIT Bhopal University.
 
-#### 🔭 *I'm currently learning Deep learning*
+##### 🗣️ Ask me about Machine learning🧑‍💻⚙️, Computer Vision👀📸, Robotics🤖
 
 
 
