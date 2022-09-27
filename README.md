@@ -1,10 +1,13 @@
 # Hi there, I'm [Vikanksh!](https://github.com/vikanksh15)👋
 
 
-######
-🧑‍🎓I'm a 3rd-year Student pursing a Bachelor’s in Computer Science with a specialization in Artificial Inteligence and Machine Learning, from VIT Bhopal University.
+<h3>🔎 About me :</h3>
 
-##### 🗣️ Ask me about Machine learning🧑‍💻⚙️, Computer Vision👀📸, Robotics🤖
+- 🏫 I'm currently studying in Vellore Institute of Technology
+- 🌱 I'm currently learning **Web Development**
+<!-- 💬 Ask me about **[topic](add link here)**-->
+<!-- ❤️ I love open source-->
+<!--add fact here ⚡ Fun Fact:.--> 
 
 
 
@@ -55,10 +58,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=8&theme=radical)](https://github.com/vikanksh15/github-readme-stats)
 
-
-## 🔗 Connect With me:
-
-                     
-[![linkedin](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://in.linkedin.com/in/vikanksh-gautam)
-[![twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/VikankshGautam) 
-######
+<h3>✉️  Connect with Me</h3>
+<p>
+ <a href="https://twitter.com/VikankshGautam" ><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="vikankshgautam" height="40" width="40"/></a>
+ <a href="https://in.linkedin.com/in/vikanksh-gautam" ><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="vikankshgautam" height="40" width="40"/></a> 
+</p>
