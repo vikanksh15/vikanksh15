@@ -51,12 +51,10 @@
 
 ## MY STATS!📊
 
-![Vikanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikanksh15&theme=radical&show_icons=true)
+![Vikanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikanksh15&theme=merko&show_icons=true)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=8&theme=radical)](https://github.com/vikanksh15/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)                                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=4&theme=merko)](https://github.com/vikanksh15/github-readme-stats)
 
 <h3>✉️  Connect with Me</h3>
 <p>
