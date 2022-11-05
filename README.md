@@ -1,6 +1,6 @@
-
-# Hi there, I'm [Vikanksh!](https://github.com/vikanksh15)👋
-
+<h1 align="center">
+Hi there, I'm <a href="https://github.com/vikanksh15" target="_blank" rel="noreferrer">Vikanksh</a> 👋
+</h1>
 
 <h3>🔎 About me :</h3>
 
@@ -51,7 +51,7 @@
 </p>
 
 
-## MY STATS📊 and Badges 📛
+## 🎭My Stats N Badges 📛
 
 <!--![Vikanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikanksh15&theme=merko&show_icons=true)-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)                                      <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=2&theme=merko)](https://github.com/vikanksh15/github-readme-stats)-->
