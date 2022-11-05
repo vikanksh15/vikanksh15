@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://github.com/vikanksh15" target="_blank" rel="noref
 
 
 
-## 🛠 TECH & TOOLS:
+<h3>🛠 TECH & TOOLS:</h3>
 
 <p>    
   <!-- Python -->
@@ -51,11 +51,12 @@ Hi there, I'm <a href="https://github.com/vikanksh15" target="_blank" rel="noref
 </p>
 
 
-## 🎭My Stats N Badges 📛
+<h3>🎭My Stats N Badges 📛</h3>
 
-<!--![Vikanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikanksh15&theme=merko&show_icons=true)-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)                                      <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=2&theme=merko)](https://github.com/vikanksh15/github-readme-stats)-->
-[![@vikanksh15's Holopin board](https://holopin.me/vikanksh15)](https://holopin.io/@vikanksh15) 
+<p align="center">
+  <!--[GitHub Streak]--> <img src="http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+  <!--[@vikanksh15's Holopin board]--> <img src="https://holopin.me/vikanksh15"/>
+  </p>
 
 <h3>✉️  Connect with Me</h3>
 <p>
