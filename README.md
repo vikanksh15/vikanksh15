@@ -5,9 +5,9 @@ Hi there, I'm <a href="https://github.com/vikanksh15" target="_blank" rel="noref
 <h3>🔎 About me :</h3>
 
 - 👨‍🎓 I'm currently studying in Vellore Institute of Technology
-- 🛠️ I've worked with ML-DL 🤖, and Computer vision🖥️👀 algorithms
+- 🛠️ I've worked with ML-DL 🤖, and Computer vision🖥️👀 Algorithms
 - 🌱 I'm currently learning **Web Development**
-- 💖 I love open source
+- 💖 I love Open source
 <!-- 💬 Ask me about **[topic](add link here)**-->
 <!--add fact here ⚡ Fun Fact:.--> 
 
