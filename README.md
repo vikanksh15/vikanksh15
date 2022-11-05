@@ -1,14 +1,14 @@
-[![@vikanksh15's Holopin board](https://holopin.me/vikanksh15)](https://holopin.io/@vikanksh15)
 
 # Hi there, I'm [Vikanksh!](https://github.com/vikanksh15)👋
 
 
 <h3>🔎 About me :</h3>
 
-- 🏫 I'm currently studying in Vellore Institute of Technology
+- 👨‍🎓 I'm currently studying in Vellore Institute of Technology
+- 🛠️ I've worked with ML-DL 🤖, and Computer vision🖥️👀 algorithms
 - 🌱 I'm currently learning **Web Development**
+- 💖 I love open source
 <!-- 💬 Ask me about **[topic](add link here)**-->
-<!-- ❤️ I love open source-->
 <!--add fact here ⚡ Fun Fact:.--> 
 
 
@@ -50,12 +50,12 @@
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
 </p>
 
-## MY STATS!📊
 
-![Vikanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikanksh15&theme=merko&show_icons=true)
+## MY STATS📊 and Badges 📛
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)                                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=2&theme=merko)](https://github.com/vikanksh15/github-readme-stats)
+<!--![Vikanksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikanksh15&theme=merko&show_icons=true)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)                                      <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikanksh15&langs_count=2&theme=merko)](https://github.com/vikanksh15/github-readme-stats)-->
+[![@vikanksh15's Holopin board](https://holopin.me/vikanksh15)](https://holopin.io/@vikanksh15) 
 
 <h3>✉️  Connect with Me</h3>
 <p>
