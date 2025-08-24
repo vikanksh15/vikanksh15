@@ -53,7 +53,7 @@ Hi there, I'm <a href="https://github.com/vikanksh15" target="_blank" rel="noref
 <h3>🎈 Stats & Badges :</h3>
 
 <p align="center">
-  <!--[GitHub Streak]--> <img src="http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+<!--   <!--[GitHub Streak]--> <img src="http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j"/> -->
   <!--[@vikanksh15's Holopin board]--> <img src="https://holopin.me/vikanksh15"/>
   </p>
 
