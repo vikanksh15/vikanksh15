@@ -4,58 +4,59 @@ Hi there, I'm <a href="https://github.com/vikanksh15" target="_blank" rel="noref
 
 <h3>🔎 About me :</h3>
 
-- 👨‍🎓 I'm currently studying in Vellore Institute of Technology
-- 🛠️ I've worked with ML-DL 🤖, and Computer vision🖥️👀 Algorithms
-- 💖 I love Open source
+- 💼 Embedded Software Engineer at Visteon, working on real-time embedded systems and hardware-software integration.
+- 👨‍🎓 Graduated in 2023 from VIT, where I explored Artifical Intelligence and Machine Learning.
+- 🛠️ I enjoy building low-level firmware, optimizing performance, and occasionally exploring ML on microcontrollers.
+- 💖 Advocate of open source — I love contributing, exploring embedded libraries, and sharing what I learn.
+
 <!-- 💬 Ask me about **[topic](add link here)**-->
 <!--add fact here ⚡ Fun Fact:.--> 
 
+### 🔧 Languages & Tools
+- 💻 Languages: Embedded C/C++, Assembly, Python (for scripting/tools)
+- 🔌 Protocols: UART, SPI, I2C, CAN
+- 🔋 Platforms: STM32, ESP32, AVR, PIC, ARM Cortex-M
+- 📟 RTOS: FreeRTOS, AUTOSAR OS (Classic Platform)
+- 🔍 Debugging: Trace32, JTAG/SWD, Logic Analyzers, Oscilloscopes
 
 
-<h3>🛠 Tech & Tools :</h3>
+<!-- <h3>🛠 Tech & Tools :</h3>
 
 <p>    
-  <!-- Python -->
+
   <img src="https://img.icons8.com/color/344/python--v1.png" alt="Python" width="40" height="40"/>
   
-  <!-- NumPy -->
+
   <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
   
-  <!-- OpenCV -->
+
   <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
   
-  <!--Git-->
+
   <img src="https://img.icons8.com/color/344/git.png" alt="Git" width="40" height="40"/>
-    
-  <!--html-->
+
   <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="HTML5" width="40" height="40"/>
     
-  <!--css-->
   <img src="https://img.icons8.com/color/344/css3.png" alt="CSS3" width="40" height="40"/>
   
-  <!--Bootstrap-->
+  
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   
-  <!--JavaScript-->
+
   <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   
-  <!-- VS Code-->
+
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/>
   
-  <!--Anaconda-->
+
   <img src="https://img.icons8.com/fluency/40/000000/anaconda--v2.png"/>
   
-  <!--Jupyter notebook-->
+  
   <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-</p>
+</p> -->
 
 
-<h3>🎈 Stats & Badges :</h3>
 
-<p align="center">
-  <!--[GitHub Streak]--> <!--<img src="http://github-readme-streak-stats.herokuapp.com?user=vikanksh15&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j"/>
-  <!--[@vikanksh15's Holopin board]--> <img src="https://holopin.me/vikanksh15"/>
-  </p>
 
 <h3>✉️  Connect with Me</h3>
 <p>
